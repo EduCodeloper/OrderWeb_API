@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kND8NFZqflMq/N6ibMx619BBdvDHbzBZsGhAjFFW/dI=",
+  "Source": "API_OrderWeb",
+  "BasePath": "_content/API_OrderWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
